@@ -1,0 +1,11 @@
+
+django-admin startproject blog
+
+rodar projeto
+python3 manage.py runserver
+
+parar
+ctrl + c
+
+criar app
+python3 manage.py startapp website
